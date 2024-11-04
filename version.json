@@ -1,4 +1,5 @@
 {
-  "version": "1.0.0",
-  "releaseDate": "2024-11-03"
+    "version": "0.0.1",
+    "installer_url": "https://github.com/bbe1987/PrinterMonitor/releases/download/v0.0.0/PrinterMonitorAgent.Installer.exe"
 }
+
